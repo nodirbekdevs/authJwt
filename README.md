@@ -1,2 +1,2 @@
 # authJwt
-Authentification 
+Authentification with jsonwebtoken
